@@ -12,7 +12,7 @@ This project involves the development of a single page (landing page) website , 
 - JavaScript
 - Vite
 
-## Access at : 
+## Live Access at : 
 [Click Here](https://radiant-riches-llc-site.netlify.app/)
 
 
