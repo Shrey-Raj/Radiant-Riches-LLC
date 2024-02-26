@@ -1,7 +1,7 @@
 import { Flex, Tag, Typography, Image, Button } from "antd";
 import React from "react";
 
-const src= "src/assets/lowerSectionCardImg.png" ; 
+const src= "src/assets/lowerSectionCardImg.svg" ; 
 
 const LowerSectionCard = () => {
   return (

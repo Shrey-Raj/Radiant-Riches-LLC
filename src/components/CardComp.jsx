@@ -4,7 +4,7 @@ import { Flex , Space, Typography , Image, Button, Badge,Card, Tag} from "antd";
 
 import {CheckCircleTwoTone} from '@ant-design/icons'
 
-const src = 'src/assets/card-img.png' ; 
+const src = 'src/assets/card-img.svg' ; 
 
 const CardComp = ({badge , count , rating, table}) => {
   return (

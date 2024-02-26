@@ -1,8 +1,36 @@
-# React + Vite
+# Radiant Riches LLC Project
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Project Overview
 
-Currently, two official plugins are available:
+Describe the purpose and scope of your project. Highlight the key features and functionalities.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Technologies Used
+
+- React
+- SCSS
+- Ant Design
+- JavaScript
+
+## Getting Started
+
+1. **Clone the repository:**
+
+   ```bash
+   git clone https://github.com/Shrey-Raj/Radiant-Riches-LLC
+
+2. **Run the follwing commands :**  
+   ```bash cd 
+       Radiant-Riches-LLC 
+       npm install
+       npm start
+
+
+
+## Sneakpeek 
+
+![alt text](<Screenshot (82).png>)
+
+![alt text](<Screenshot (83).png>)
+
+![alt text](<Screenshot (84).png>)
+
