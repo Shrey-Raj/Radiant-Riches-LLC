@@ -10,6 +10,8 @@ This project involves the development of a single page (landing page) website , 
 - SCSS
 - Ant Design
 - JavaScript
+- Vite
+
 
 ## Getting Started
 
