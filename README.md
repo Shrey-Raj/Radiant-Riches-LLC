@@ -1,8 +1,8 @@
-# Radiant Riches LLC Project
+# Radiant Riches LLC Project 🚀
 
 ## Project Overview
 
-Describe the purpose and scope of your project. Highlight the key features and functionalities.
+This project involves the development of a single page (landing page) website , as per the given Figma Design
 
 ## Technologies Used
 
@@ -20,7 +20,7 @@ Describe the purpose and scope of your project. Highlight the key features and f
 
 2. **Run the follwing commands :**  
    ```bash cd 
-       Radiant-Riches-LLC 
+       cd Radiant-Riches-LLC 
        npm install
        npm start
 
